@@ -1,1 +1,2 @@
 activity-day:20773 claimed sherlock-project/sherlock b1946aa5d6c2
+activity-day:20773 done sherlock-project/sherlock 5d4d8b101c11
